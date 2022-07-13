@@ -30,7 +30,7 @@ header {
 }
 .textos-header{
     display: flex;
-    height: 200px;
+    height: 100px;
     width: 100%;
     align-items: center;
     justify-content: center;
@@ -69,7 +69,7 @@ header {
     align-items: right;
 }
 .imagen-arin{
-    width: 25%;
+    width: 35%;
     align-items: right;
 }
 /* Kartela */
