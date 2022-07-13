@@ -29,7 +29,7 @@ header {
 }
 .textos-header{
     display: flex;
-    height: 430px;
+    height: 200px;
     width: 100%;
     align-items: center;
     justify-content: center;
