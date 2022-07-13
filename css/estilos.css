@@ -66,11 +66,11 @@ header {
 
 .imagen-insta{
     width: 15%;
-    align-items: right;
+    align-items: center;
 }
 .imagen-arin{
     width: 30%;
-    align-items: right;
+    align-items: center;
 }
 /* Kartela */
 .kartela{
